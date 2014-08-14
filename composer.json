@@ -1,0 +1,17 @@
+{
+    "name": "yura/town",
+    "description": "myworkspace",
+    "authors": [
+        {
+            "name": "Yura Skubak",
+            "email": "yuraskubak1@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+	"autoload":{
+		"psr-4":{"yura\\town\\":"src/"}
+	}
+}
