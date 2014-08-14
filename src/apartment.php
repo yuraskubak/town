@@ -1,5 +1,5 @@
 <?php
-	namespace Yura\Town;
+namespace Yura\Town;
 
     class Apartment {
         public $room;
